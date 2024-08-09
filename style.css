@@ -1,0 +1,34 @@
+#GeneratorText {
+    font-size: 50px;
+}
+
+html {
+    background-color: lightskyblue
+}
+
+#buttondiv {
+    display: flex;
+    justify-content: center;
+}
+
+
+button {
+    transition: font-size .7s;
+    font-size: 40px;
+    background-color: lightskyblue;
+}
+
+button:hover {
+    font-size: 60px;
+}
+
+#boxes {
+    display: flex;
+    justify-content: center;
+    justify-items: baseline;
+    font-size: 30px;
+}
+
+#hyperlink {
+    margin-top: 500px;
+}
